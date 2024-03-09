@@ -1,0 +1,10 @@
+{
+	"bookshelfFixesEnabled": true,
+	"lavaFixesEnabled": true,
+	"woodenSlabFixesEnabled": true,
+	"stairFixesEnabled": true,
+	"boatFixesEnabled": true,
+	"fenceFixesEnabled": true,
+	"pickBlockFixesEnabled": true,
+	"cobwebFixesEnabled": true
+}

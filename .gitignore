@@ -1,0 +1,14 @@
+.fabric/
+.optifabric/
+coremods/
+logs/
+resourcepacks/
+resources/
+saves/
+screenshots/
+server-resource-packs/
+shaderpacks/
+stats/
+texturepacks/
+*.log
+*.txt

@@ -1,0 +1,21 @@
+{
+	"mpGiveCommand": "/give {0} {1} {2}",
+	"mpHealCommand": "",
+	"mpRainONCommand": "",
+	"mpTimeNightCommand": "/time set 13000",
+	"mpTimeDayCommand": "/time set 0",
+	"mpRainOFFCommand": "",
+	// Shows items with null names. Can cause crashes with poorly made mods.
+	"hideNullNames": false,
+	// Enables some extra tooltips. Breaks relatively easily, but shouldn't cause crashes.
+	"devMode": false,
+	"cheatsEnabled": false,
+	"overlayEnabled": true,
+	"recipeViewerDraggableGui": false,
+	"scrollInverted": false,
+	"centredSearchBar": false,
+	"fastSearch": false,
+	"showItemIDs": false,
+	"recipeViewerGuiWidth": 251,
+	"recipeViewerGuiHeight": 134
+}
