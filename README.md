@@ -13,7 +13,7 @@ All project parts are logical modules that can be enabled or disabled depending 
 ### Mod List
 - [AnnoyanceFix](https://modrinth.com/mod/annoyancefix-stationapi-edition) (by Telvarost)
 - [BetterScreenshots](https://modrinth.com/mod/betterscreenshots-stationapi) (by Telvarost)
-- [better_weather](https://modrinth.com/mod/betterweather) (by paulevs)
+- [BetterWeather](https://modrinth.com/mod/betterweather) (by paulevs)
 - [BHCreative](https://modrinth.com/mod/bh-creative) (by paulevs)
 - [BetterNetherBeta](https://modrinth.com/mod/better-nether-beta) (by paulevs, new edition)
 - [ExtremeView](https://modrinth.com/mod/extremeview) (by paulevs)
