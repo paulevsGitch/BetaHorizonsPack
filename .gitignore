@@ -12,3 +12,5 @@ stats/
 texturepacks/
 *.log
 *.txt
+*.dat
+natives/
