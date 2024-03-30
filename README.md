@@ -22,6 +22,7 @@ All project parts are logical modules that can be enabled or disabled depending 
 - [ModMenu](https://github.com/calmilamsy/ModMenu) (by calmilamsy)
 - [Mojangfix StationAPI Edition](https://modrinth.com/mod/mojangfix-stationapi-edition) (by Telvarost and 6pak)
 - [MostlyModernRecipes](https://modrinth.com/mod/mostlymodernrecipes-stationapi) (by Telvarost)
+- [MusicDiscs](https://github.com/telvarost/b1.7.3-MusicDiscs) (by Jadestrouble, edited by Telvarost)
 - [SmoothBeta](https://modrinth.com/mod/smoothbeta) (by mineLdiver)
 - [Spawneggs](https://modrinth.com/mod/spawn-eggs/) (by DanyGames2014)
 - [SinglePlayerCommands](https://github.com/matthewperiut/spc-babric/) (by matthewperiut)
