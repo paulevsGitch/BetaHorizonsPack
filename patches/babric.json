@@ -7,6 +7,9 @@
     "+traits": [
         "noapplet"
     ],
+    "compatibleJavaMajors": [
+        17
+    ],
     "libraries": [
         {
             "name": "babric:log4j-config:1.0.0",
@@ -42,6 +45,9 @@
         },
         {
             "name": "commons-codec:commons-codec:1.15"
+        },
+        {
+            "name": "com.google.guava:failureaccess:1.0.1"
         }
     ]
 }

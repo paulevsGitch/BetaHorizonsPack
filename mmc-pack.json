@@ -47,7 +47,7 @@
                     "uid": "babric.intermediary"
                 }
             ],
-            "cachedVersion": "0.14.24-babric.1",
+            "cachedVersion": "0.15.6-babric.2",
             "uid": "net.fabricmc.fabric-loader",
             "version": "0.13.3"
         }
