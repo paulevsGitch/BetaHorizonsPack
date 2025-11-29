@@ -1,0 +1,16 @@
+filename = 'keyf3-1.0.2.jar'
+name = 'Key F3'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '841293ff80ee71d9f94d172baa671e4cf1148045503ea0484b644ee4913a968809be7bdb37e7673195bd38239102046cce0a2d13537679b57b9c0b02e9fa67db'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QWSMyu58/versions/njMXnbya/keyf3-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'QWSMyu58'
+version = 'njMXnbya'

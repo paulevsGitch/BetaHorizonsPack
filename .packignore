@@ -1,0 +1,14 @@
+.git/*
+.github/*
+.gitignore
+.idea/*
+.minecraft/*
+README.md
+minecraft/coremods
+minecraft/resourcepacks
+minecraft/saves
+minecraft/screenshots
+minecraft/server-resource-packs
+minecraft/shaderpacks
+minecraft/stats
+pack.sh

@@ -1,0 +1,16 @@
+filename = 'bnb-1.0.0-alpha-9.jar'
+name = 'Better Nether Beta'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '41f658c904fa49ff17069186bfc7ad9c610731e9ab541e6e8b6de16ec43ee57126f7478aed17988a16048ab248677411caa7b84aad613436cde3a197be2e496a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6C9w9fCI/versions/qdiuCubX/bnb-1.0.0-alpha-9.jar'
+
+[update.modrinth]
+mod-id = '6C9w9fCI'
+version = 'qdiuCubX'

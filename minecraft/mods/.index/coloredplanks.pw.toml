@@ -1,0 +1,16 @@
+filename = 'ColoredPlanks-0.1.2.jar'
+name = 'ColoredPlanks'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0bcfd53963abc4b85c40ce6072d37a39be94d9b4828c0759166e35c908f0edb16d02cb90290ede0b03e520c22bc4c13f1270fd55edec697756e230db4c145b21'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/t8SehPCN/versions/ZcpjmKVp/ColoredPlanks-0.1.2.jar'
+
+[update.modrinth]
+mod-id = 't8SehPCN'
+version = 'ZcpjmKVp'

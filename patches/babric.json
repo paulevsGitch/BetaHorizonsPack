@@ -38,6 +38,9 @@
             "name": "com.google.guava:guava:31.0.1-jre"
         },
         {
+            "name": "com.google.guava:failureaccess:1.0.1"
+        },
+        {
             "name": "org.apache.commons:commons-lang3:3.12.0"
         },
         {
@@ -45,9 +48,6 @@
         },
         {
             "name": "commons-codec:commons-codec:1.15"
-        },
-        {
-            "name": "com.google.guava:failureaccess:1.0.1"
         }
     ]
 }

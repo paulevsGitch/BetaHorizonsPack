@@ -1,0 +1,16 @@
+filename = 'spawneggs-1.11.0.jar'
+name = 'Spawn Eggs'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '71fecfb25924401357bd4e0a2479b19da4a169d2011bb62d6474e7ac2eca46b9e31ae1b349cb46e7a744d8fd46b260f83c69e27808b2f1f2ab230ca0987d6d63'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zq6BznqT/versions/b7PR6a4n/spawneggs-1.11.0.jar'
+
+[update.modrinth]
+mod-id = 'zq6BznqT'
+version = 'b7PR6a4n'

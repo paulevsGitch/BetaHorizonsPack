@@ -1,0 +1,16 @@
+filename = 'GlassConfigAPI-3.2.5.jar'
+name = 'Glass Config API 3'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ 'b1.7.3' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c2851e1e2f2c680a5b903a78a22cfdc81119963a00f9111ba8a470fa4b7679a7744c664a9b70aa276caf8fc0b1ca5d869c2290245438cf38db4a8ad7bb78f4f7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rFeWTq4G/versions/OWPc554s/GlassConfigAPI-3.2.5.jar'
+
+[update.modrinth]
+mod-id = 'rFeWTq4G'
+version = 'OWPc554s'
